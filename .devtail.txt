@@ -1,0 +1,6 @@
+﻿
+ astro  v5.12.3 ready in 669 ms
+
+鈹?Local    http://127.0.0.1:4321/
+
+16:55:22 watching for file changes...

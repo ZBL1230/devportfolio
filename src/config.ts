@@ -35,10 +35,34 @@ export const siteConfig = {
       skills: ["Three.js"],
     },
     {
+      name: "WRSK",
+      description: "一款网页游戏（开源项目，非本人制作）",
+      link: "https://wrsk.zblweb.top",
+      skills: ["前端"],
+    },
+    {
+      name: "NEWSNOW",
+      description: "各平台资讯聚合（开源项目，非本人制作）",
+      link: "https://new.zblweb.top/",
+      skills: ["未知"],
+    },
+    {
       name: "ZBL工具箱",
       description: "小程序工具箱集合",
       image: "/images/zbl-toolbox.jpg",
       skills: ["小程序"],
+    },
+    {
+      name: "NB定制服务",
+      description: "定制 NB 子域名：lyx.zblweb.top / lgy.zblweb.top",
+      link: "https://lyx.zblweb.top",
+      skills: ["前端"],
+    },
+    {
+      name: "中秋节快乐",
+      description: "祝福页面，可以发给朋友",
+      link: "https://zqjkl.zblweb.top",
+      skills: ["前端"],
     },
   ],
   education: [

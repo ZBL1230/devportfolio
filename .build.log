@@ -1,0 +1,26 @@
+﻿16:54:34 [vite] Re-optimizing dependencies because vite config has changed
+16:54:35 [content] Syncing content
+16:54:35 [content] Synced content
+16:54:35 [types] Generated 871ms
+16:54:35 [build] output: "static"
+16:54:35 [build] mode: "static"
+16:54:35 [build] directory: F:\ZBL\ZBL涓婚〉\devportfolio\dist\
+16:54:35 [build] Collecting build info...
+16:54:35 [build] 鉁?Completed in 890ms.
+16:54:35 [build] Building static entrypoints...
+16:54:36 [vite] [32m鉁?built in 1.18s[39m
+16:54:36 [build] 鉁?Completed in 1.22s.
+
+ building client (vite) 
+16:54:36 [vite] transforming...
+16:54:36 [vite] [32m鉁?[39m 1 modules transformed.
+16:54:36 [vite] rendering chunks...
+16:54:36 [vite] [32m鉁?built in 17ms[39m
+
+ generating static routes 
+16:54:36 鈻?src/pages/index.astro
+16:54:36   鈹斺攢 /index.html (+13ms) 
+16:54:36 鉁?Completed in 27ms.
+
+16:54:37 [build] 1 page(s) built in 2.73s
+16:54:37 [build] Complete!
