@@ -6,6 +6,7 @@ export const siteConfig = {
   social: {
     email: "zhaobolesunny@qq.com",
     github: "https://github.com/ZBL1230",
+    afdian: "https://afdian.com/a/zbl1230",
   },
   aboutMe: "很强的人类",
   skills: ["Python", "HTML", "CSS", "摄影"],

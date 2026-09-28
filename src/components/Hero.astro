@@ -271,6 +271,34 @@ import { siteConfig } from "../config";
         </a>
       )
     }
+    {
+      siteConfig.social?.afdian && (
+        <a
+          href={siteConfig.social.afdian}
+          target="_blank"
+          rel="noopener noreferrer"
+          aria-label="爱发电"
+          title="爱发电"
+          class="transition-colors duration-300 hover:text-[var(--accent-color)]"
+        >
+          <svg
+            xmlns="http://www.w3.org/2000/svg"
+            width="24"
+            height="24"
+            viewBox="0 0 24 24"
+            fill="none"
+            stroke="currentColor"
+            stroke-width="2"
+            stroke-linecap="round"
+            stroke-linejoin="round"
+            class="h-6 w-6 sm:h-7 sm:w-7 md:h-8 md:w-8"
+            aria-hidden="true"
+          >
+            <path d="M20.8 4.6a5.5 5.5 0 0 0-7.8 0L12 5.7l-1.1-1.1a5.5 5.5 0 0 0-7.8 7.8L12 21l8.8-8.6a5.5 5.5 0 0 0 0-7.8Z" />
+          </svg>
+        </a>
+      )
+    }
   </div>
 </div>
 
