@@ -1,0 +1,71 @@
+﻿node.exe : npm warn tar TAR_ENTRY_ERROR ENOENT: no such file or directory, open 'F:\ZBL\ZBL涓婚〉\devportfolio\node_module
+s\@babel\types\lib\validators\isValidES3Identifier.js'
+所在位置 行:445 字符: 227
++ ... n\npm-cli.js"; & $node $npm install --no-audit --no-fund 2>&1 | Out-F ...
++                    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (npm warn tar TA...3Identifier.js':String) [], RemoteException
+    + FullyQualifiedErrorId : NativeCommandError
+ 
+npm warn tar TAR_ENTRY_ERROR ENOENT: no such file or directory, lstat 'F:\ZBL\ZBL涓婚〉\devportfolio\node_modules\aria-que
+ry\lib\etc'
+npm warn tar TAR_ENTRY_ERROR ENOENT: no such file or directory, lstat 'F:\ZBL\ZBL涓婚〉\devportfolio\node_modules\prismjs\
+plugins'
+npm warn tar TAR_ENTRY_ERROR ENOENT: no such file or directory, lstat 'F:\ZBL\ZBL涓婚〉\devportfolio\node_modules\@babel\t
+ypes\lib'
+npm warn tar TAR_ENTRY_ERROR ENOENT: no such file or directory, lstat 'F:\ZBL\ZBL涓婚〉\devportfolio\node_modules\aria-que
+ry\lib'
+npm warn tar TAR_ENTRY_ERROR ENOENT: no such file or directory, lstat 'F:\ZBL\ZBL涓婚〉\devportfolio\node_modules\prismjs\
+plugins'
+npm warn tar TAR_ENTRY_ERROR ENOENT: no such file or directory, lstat 'F:\ZBL\ZBL涓婚〉\devportfolio\node_modules\@babel\t
+ypes\lib'
+npm warn tar TAR_ENTRY_ERROR ENOENT: no such file or directory, lstat 'F:\ZBL\ZBL涓婚〉\devportfolio\node_modules\zod\v4\l
+ocales'
+npm warn tar TAR_ENTRY_ERROR ENOENT: no such file or directory, lstat 'F:\ZBL\ZBL涓婚〉\devportfolio\node_modules\@swc\hel
+pers\_\_class_private_field_loose_base'
+npm warn tar TAR_ENTRY_ERROR ENOENT: no such file or directory, lstat 'F:\ZBL\ZBL涓婚〉\devportfolio\node_modules\aria-que
+ry\lib'
+npm warn tar TAR_ENTRY_ERROR ENOENT: no such file or directory, lstat 'F:\ZBL\ZBL涓婚〉\devportfolio\node_modules\prismjs\
+plugins'
+npm warn tar TAR_ENTRY_ERROR ENOENT: no such file or directory, lstat 'F:\ZBL\ZBL涓婚〉\devportfolio\node_modules\@babel\t
+ypes\lib'
+npm warn tar TAR_ENTRY_ERROR ENOENT: no such file or directory, open 'F:\ZBL\ZBL涓婚〉\devportfolio\node_modules\astro\dis
+t\integrations\hooks.js'
+npm warn tar TAR_ENTRY_ERROR ENOENT: no such file or directory, lstat 'F:\ZBL\ZBL涓婚〉\devportfolio\node_modules\css-tree
+\lib\utils'
+npm warn tar TAR_ENTRY_ERROR ENOENT: no such file or directory, lstat 'F:\ZBL\ZBL涓婚〉\devportfolio\node_modules\zod\v4'
+npm warn tar TAR_ENTRY_ERROR ENOENT: no such file or directory, lstat 'F:\ZBL\ZBL涓婚〉\devportfolio\node_modules\@swc\hel
+pers\_'
+npm warn tar TAR_ENTRY_ERROR ENOENT: no such file or directory, lstat 'F:\ZBL\ZBL涓婚〉\devportfolio\node_modules\aria-que
+ry\lib'
+npm warn tar TAR_ENTRY_ERROR ENOENT: no such file or directory, lstat 'F:\ZBL\ZBL涓婚〉\devportfolio\node_modules\prismjs\
+components'
+npm warn tar TAR_ENTRY_ERROR ENOENT: no such file or directory, lstat 'F:\ZBL\ZBL涓婚〉\devportfolio\node_modules\@babel\t
+ypes\lib'
+npm warn tar TAR_ENTRY_ERROR ENOENT: no such file or directory, lstat 'F:\ZBL\ZBL涓婚〉\devportfolio\node_modules\astro\di
+st'
+npm warn tar TAR_ENTRY_ERROR ENOENT: no such file or directory, open 'F:\ZBL\ZBL涓婚〉\devportfolio\node_modules\typescrip
+t\lib\lib.es2015.iterable.d.ts'
+npm warn tar TAR_ENTRY_ERROR ENOENT: no such file or directory, lstat 'F:\ZBL\ZBL涓婚〉\devportfolio\node_modules\css-tree
+\lib'
+npm warn tar TAR_ENTRY_ERROR ENOENT: no such file or directory, open 'F:\ZBL\ZBL涓婚〉\devportfolio\node_modules\typescrip
+t\lib\lib.es2015.promise.d.ts'
+npm warn tar TAR_ENTRY_ERROR ENOENT: no such file or directory, open 'F:\ZBL\ZBL涓婚〉\devportfolio\node_modules\@babel\ty
+pes\lib\validators\isVar.js.map'
+npm warn tar TAR_ENTRY_ERROR ENOENT: no such file or directory, open 'F:\ZBL\ZBL涓婚〉\devportfolio\node_modules\astro\dis
+t\virtual-modules\i18n.js'
+npm warn tar TAR_ENTRY_ERROR ENOENT: no such file or directory, open 'F:\ZBL\ZBL涓婚〉\devportfolio\node_modules\css-tree\
+lib\generator\create.js'
+npm warn tar TAR_ENTRY_ERROR ENOENT: no such file or directory, lstat 'F:\ZBL\ZBL涓婚〉\devportfolio\node_modules\aria-que
+ry\lib\etc\roles\literal'
+npm warn tar TAR_ENTRY_ERROR ENOENT: no such file or directory, rename 'F:\ZBL\ZBL涓婚〉\devportfolio\node_modules\astro\d
+ist\core\build\plugins\plugin-internals.js' -> 'F:\ZBL\ZBL涓婚〉\devportfolio\node_modules\astro\dist\core\build\plugins\p
+lugin-internals.js.DELETE.c1398cbc629d8d7e8ff23b57bd4df389'
+npm warn tar TAR_ENTRY_ERROR ENOENT: no such file or directory, lstat 'F:\ZBL\ZBL涓婚〉\devportfolio\node_modules\astro\di
+st\core'
+
+added 307 packages in 10m
+npm notice
+npm notice New major version of npm available! 10.9.7 -> 12.1.0
+npm notice Changelog: https://github.com/npm/cli/releases/tag/v12.1.0
+npm notice To update run: npm install -g npm@12.1.0
+npm notice

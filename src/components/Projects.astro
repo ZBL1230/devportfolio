@@ -77,6 +77,17 @@ const hasProjects = siteConfig.projects && siteConfig.projects.length > 0;
                           {project.description}
                         </p>
 
+                        {project.image && (
+                          <div class="pt-2">
+                            <img
+                              src={project.image}
+                              alt={project.name}
+                              loading="lazy"
+                              class="h-32 w-32 rounded-lg border border-gray-200 object-cover sm:h-36 sm:w-36"
+                            />
+                          </div>
+                        )}
+
                         {project.skills && project.skills.length > 0 && (
                           <div class="flex flex-wrap gap-1.5 sm:gap-2 pt-2">
                             {project.skills.map((skill) => (
