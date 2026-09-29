@@ -31,7 +31,7 @@ export const siteConfig = {
     },
     {
       name: "ZBLCS",
-      description: "网页枪战游戏（暂未开放）",
+      description: "网页枪战游戏（20260926正式开放！）",
       link: "https://cs.zblweb.top",
       skills: ["Three.js"],
     },
