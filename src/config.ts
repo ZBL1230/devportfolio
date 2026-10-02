@@ -66,6 +66,13 @@ export const siteConfig = {
       skills: ["前端"],
     },
   ],
+  personalLinks: [
+    {
+      name: "个人图床",
+      description: "ZBL 自用的图片管理入口",
+      link: "https://tu.zblweb.top",
+    },
+  ],
   education: [
     {
       school: "iSchool",
