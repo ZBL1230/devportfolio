@@ -7,36 +7,35 @@ import PersonalLinks from "../components/PersonalLinks.astro";
 import Experience from "../components/Experience.astro";
 import Education from "../components/Education.astro";
 import Footer from "../components/Footer.astro";
-import { siteConfig } from "../config";
+import { siteConfig } from "..@command:config";
 import "../styles/global.css";
 ---
+
 <html lang="zh-CN">
-<head>
-<meta charset="utf-8" />
-<link rel="icon" type="image/svg+xml" href=" /favicon.svg" />
-<meta name="viewport" content="width=device-width" />
-<meta name="generator" content={Astro.generator} />
-<meta name="description" content={siteConfig.description} />
-<link rel="preconnect" href="https://fonts.googleapis.com" />
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
-<link
-href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;1,100;1,200;1,300;1,400;1,500;1,600;1,700&display=swap"
-rel="stylesheet"
-/>
-<title>{siteConfig.name} - {siteConfig.title}</title>
-<!-- Monetag MultiTag 广告代码（Happy tag 组）：不要改这一行，is:inline 必须保留 -->
-<script is:inline src="https://quge5.com/88/tag.min.js" data-zone="292394" async data-cfasync="false"></script>
-</head>
-<body>
-<Header />
-<section>
-<Hero />
-<About />
-<Projects />
-<PersonalLinks />
-<Experience />
-<Education />
-</section>
-<Footer />
-</body>
+  <head>
+    <meta charset="utf-8" />
+    <link rel="icon" type="image/svg+xml" href="@command:favicon.svg" />
+    <meta name="viewport" content="width=device-width" />
+    <meta name="generator" content={Astro.generator} />
+    <meta name="description" content={siteConfig.description} />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;1,100;1,200;1,300;1,400;1,500;1,600;1,700&display=swap"
+      rel="stylesheet"
+    />
+    <title>{siteConfig.name} - {siteConfig.title}</title>
+  </head>
+  <body>
+    <Header />
+    <section>
+      <Hero />
+      <About />
+      <Projects />
+      <PersonalLinks />
+      <Experience />
+      <Education />
+    </section>
+    <Footer />
+  </body>
 </html>
