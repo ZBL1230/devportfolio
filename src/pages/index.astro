@@ -10,32 +10,33 @@ import Footer from "../components/Footer.astro";
 import { siteConfig } from "../config";
 import "../styles/global.css";
 ---
-
 <html lang="zh-CN">
-  <head>
-    <meta charset="utf-8" />
-    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
-    <meta name="viewport" content="width=device-width" />
-    <meta name="generator" content={Astro.generator} />
-    <meta name="description" content={siteConfig.description} />
-    <link rel="preconnect" href="https://fonts.googleapis.com" />
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
-    <link
-      href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;1,100;1,200;1,300;1,400;1,500;1,600;1,700&display=swap"
-      rel="stylesheet"
-    />
-    <title>{siteConfig.name} - {siteConfig.title}</title>
-  </head>
-  <body>
-    <Header />
-    <section>
-      <Hero />
-      <About />
-      <Projects />
-      <PersonalLinks />
-      <Experience />
-      <Education />
-    </section>
-    <Footer />
-  </body>
+<head>
+<meta charset="utf-8" />
+<link rel="icon" type="image/svg+xml" href=" /favicon.svg" />
+<meta name="viewport" content="width=device-width" />
+<meta name="generator" content={Astro.generator} />
+<meta name="description" content={siteConfig.description} />
+<link rel="preconnect" href="https://fonts.googleapis.com" />
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+<link
+href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;1,100;1,200;1,300;1,400;1,500;1,600;1,700&display=swap"
+rel="stylesheet"
+/>
+<title>{siteConfig.name} - {siteConfig.title}</title>
+<!-- Monetag MultiTag 广告代码（Happy tag 组）：把 src 的值换成后台「复制 JS 代码」给出的完整脚本地址，其余不要动 -->
+<script is:inline src="粘贴后台给的脚本地址" data-zone="11882727" data-sdk="show_11882727"></script>
+</head>
+<body>
+<Header />
+<section>
+<Hero />
+<About />
+<Projects />
+<PersonalLinks />
+<Experience />
+<Education />
+</section>
+<Footer />
+</body>
 </html>
