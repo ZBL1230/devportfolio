@@ -72,6 +72,11 @@ export const siteConfig = {
       description: "ZBL 自用的图片管理入口",
       link: "https://tu.zblweb.top",
     },
+    {
+      name: "AI 自动签到",
+      description: "WorkBuddy 与 Trae 的自动签到（ZBL 自用）",
+      link: "https://aiauto.zblweb.top/",
+    },
   ],
   education: [
     {
